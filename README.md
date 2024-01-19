@@ -12,3 +12,6 @@ Some challenges I faced was how to give a coded response based on what the user 
 3. If you say 'yes', it will offer you 8 options (with description of each) to choose from.
 4. If you say 'no' the program will quit.
 5. You can continue with the program for as long as you would like and you will also always have the option to quit the program whenever you would like.
+
+#credits
+My partner Kayla McClendon was super helpful through the process of making this program
